@@ -4,7 +4,7 @@
 -  I’m a blockchain & web3 enthusiast
 -  Currently learning solidity and how to integrate web3 technologies on apps
 -  You can checkout my portfolio here! [Portfolio](https://joseobm92.github.io/React-Portfolio/)
--  Whether you are looking to collaborate or have an opportunity, feel free to reach out to me through my email youssef.ojeil@hotmail.com or any of my socials
+-  Whether you are looking to collaborate or have an opportunity, feel free to reach out to me through my email joseobm92@gmail.com or any of my socials
 
 
 ### Socials
