@@ -9,7 +9,10 @@
 
 ### Socials
 
-[![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/youssefojeil/](https://www.linkedin.com/in/jose-barreto-875087ab/)) [![Email Shield](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseobm92@gmail.com) [![Twitter Shield](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/Gallops_](https://twitter.com/axieBarre))
+[![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-barreto-875087ab/) 
+[![Email Shield](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseobm92@gmail.com) 
+[![Twitter Shield](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]((https://twitter.com/axieBarre))
+
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10&height=1&reversal=true)
 
